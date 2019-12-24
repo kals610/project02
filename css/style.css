@@ -72,7 +72,7 @@ body{
 	display: block;
 	font-size: 14px;
 	color: #fff;
-	font-family: "Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	font-weight: 600;
 	height: 70px;
 	margin-left: 35px;
@@ -110,7 +110,7 @@ body{
 #header .text_zone a{
 	display: inline-block;
 	color: #fff;
-	font-family: "Montserrat", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	font-weight: 700;
 	width: 240px;
 	height: 65px;
@@ -169,7 +169,7 @@ body{
 	display: block;
 	color: #603d98;
 	padding: 20px 0 20px;
-	font-family: "Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	font-weight: 600;
 }
 #header .tab{
@@ -272,12 +272,12 @@ body{
 #business .title h2{
 	font-size:40px;
 	color:#222;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 }
 #business .title p{
 	color:#777;
 	font-size:16px;
-	font-family: "Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 }
 
 #business .title p .br{
@@ -343,7 +343,7 @@ body{
 }
 #business .content li .desc dd{
 	font-size:14px;
-	font-family: 'Roboto Slab', sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	color:#777;
 }
 
@@ -394,7 +394,7 @@ body{
 #portfolio .title h2{
 	font-size:40px;
 	color:#222;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -402,7 +402,7 @@ body{
 #portfolio .title p{
 	color:#777;
 	font-size:16px;
-	font-family: "Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -498,13 +498,13 @@ body{
 	font-size:18px;
 	font-weight:700;
 	color:#333;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 }
 
 #portfolio .content li .desc dd{
 	font-size:14px;
 	color:#737373;
-	font-family: 'Merriweather', sans-serif;
+	font-family:"NanumGothic", sans-serif;
 }
 
 @media only screen and (max-width:940px) {
@@ -581,7 +581,7 @@ body{
 #culture .title h2{
 	font-size: 40px;
 	color: #222;
-	font-family: "Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -589,7 +589,7 @@ body{
 #culture .title p{
 	color: #777;
 	font-size: 16px;
-	font-family: "Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -688,7 +688,7 @@ body{
 	font-size:18px;
 	font-weight:700;
 	color:#222;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 
 }
 #culture .culture_list li div.desc dt .br{
@@ -698,7 +698,7 @@ body{
 	font-size:14px;
 	margin-top:18px;
 	color:#777;
-	font-family: "Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 }
 @media only screen and (max-width:980px) {
 	#culture .culture_list li{
@@ -786,7 +786,7 @@ body{
 #awards .title h2{
 	font-size:40px;
 	color:#222;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -794,7 +794,7 @@ body{
 #awards .title p{
 	color:#777;
 	font-size:16px;
-	font-family: "Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -864,12 +864,12 @@ body{
 	padding:18px 0 10px;
 	font-weight:700;
 	color:#222;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 }
 #awards .awards_list li .desc dd{
 	font-size:14px;
 	color:#777;
-	font-family: "Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 }
 
 
@@ -1029,7 +1029,7 @@ body{
 #contact .title h2{
 	font-size:40px;
 	color:#fff;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -1037,7 +1037,7 @@ body{
 #contact .title p{
 	color:#ccc;
 	font-size:16px;
-	font-family: "Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	opacity: 0;
 	transform: translateX(-100px);
 	transition: opacity 0.4s, transform 0.6s;
@@ -1059,7 +1059,7 @@ body{
 }
 textarea,
 input[type=text]{
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	font-weight:600;
 	font-size:14px;
 	border:1px solid #ccc;
@@ -1137,7 +1137,7 @@ textarea::placeholder{
 	margin-top:28px;
 	background-color:#603d98;
 	color:#fff;
-	font-family:"Montserrat", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	font-weight:700;
 	width:240px;
 	height:65px;
@@ -1219,7 +1219,7 @@ textarea::placeholder{
 }
 #footer .address li{
 	display:inline-block;
-	font-family:"Montserrat","Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	color:#555;
 	height:30px;
 	line-height:30px;
@@ -1301,6 +1301,6 @@ textarea::placeholder{
 .btn_top a{
 	color: #fff;
 	font-size: 24px;
-	font-family:"Open Sans", sans-serif;
+	font-family:"NanumGothic", sans-serif;
 	font-weight: 600;
 }
